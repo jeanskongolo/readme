@@ -20,8 +20,8 @@ I hold the Microsoft Azure Fundamentals (AZ-900) certification and am building h
 ## 🏅 Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
-- AZ-104 Administrator 
-- AWS cloud
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- AWS Cloud Certification
 
 ## 🛠️ Hands-On Azure experiance
 
@@ -30,6 +30,7 @@ I hold the Microsoft Azure Fundamentals (AZ-900) certification and am building h
 - Deployed a Windows virtual machine in Azure
 - Configured Remote Desktop access
 - PowerShell administration
+- [Azure VM Administration Lab](https://github.com/jeanskongolo/azure-vm-administration-lab)
 
 ### Azure Networking and Security
 - Configured Network Security Group rules
